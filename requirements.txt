@@ -1,0 +1,4 @@
+flask
+psycopg2
+sqlalchemy
+db-poc==0.0.7
